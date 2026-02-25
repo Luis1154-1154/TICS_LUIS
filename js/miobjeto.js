@@ -32,4 +32,5 @@ console.log(mensaje_estado)
 console.log(mensaje_estado.textContent)
 
 mensaje_estado.textContent = 'recorrí ' + long_array + ' elementos'
+
 }, 5000);
